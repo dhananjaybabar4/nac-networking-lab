@@ -6,6 +6,10 @@ A small network lab I built while learning NAC and basic network support.
 
 [Open the lab in NetForge](https://www.netforge-ai.com/t/dNVoFroDcN)
 
+## Network Topology
+
+![Network Topology](topology.png)
+
 ## What I built
 
 - Staff and Guest VLANs
